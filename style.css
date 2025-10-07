@@ -14,7 +14,7 @@
 /*Variables*/
 body {
   background-color: var(--color--fondo);
-  --color--fondo: #070707;
+  --color--fondo: #000000;
   --color--texto: #a3a3a3;
   --color--hover: #ffffff;
 }
@@ -84,7 +84,7 @@ body {
   width: 50%;
   height: auto;
   object-fit: cover;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .info-contenedor {
